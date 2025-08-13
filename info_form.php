@@ -16,7 +16,9 @@ declare(strict_types=1);
     <div class="bg-white shadow-2xl rounded-2xl p-8 max-w-md w-full">
         <h1 class="text-2xl font-bold text-center text-blue-700 mb-6"> بياناتك الشخصية</h1>
         <!--  وتعتبر هذه الطرية امنة للتعامل مع البيانات الحساسة url  لاننا نتعامل مع مدخلات من قبل المستخدم وحتى لا يتم عرض البيانات على عنوان post تم استخدام دالة  -->
+
         <form action="Resault.php" method="post" class="space-y-5">
+
             
           
             <div>
