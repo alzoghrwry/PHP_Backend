@@ -28,7 +28,11 @@ declare(strict_types=1);
                 نموذج تعبئة الاسم واختيار اللون المفضل
             </a>
 
-            <a href="resault.php" 
+
+            <a href="Resault.php" 
+
+ 
+
                class="block bg-green-600 text-white py-3 rounded-lg hover:bg-green-700 transition font-bold">
                 صفحة عرض نتيجة الاسم
             </a>
